@@ -1,0 +1,11 @@
+.active {
+    background-color: green;
+    color: white;
+}
+.inactive {
+    background-color: red;
+    color: white;
+}
+.bold {
+    font-weight: bold;
+}
